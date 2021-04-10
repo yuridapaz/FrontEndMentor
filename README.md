@@ -8,6 +8,9 @@ Mobile first Project
 
 ![Desktop version](https://github.com/yuridapaz/FrontEndMentor/blob/5c790d22199122e21135d5936b4f2cfa25579f76/FrontEndMentor-IMG-PREVIEW/3-column-preview-card-component-main.png)
 
+<div align="center">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/5c790d22199122e21135d5936b4f2cfa25579f76/FrontEndMentor-IMG-PREVIEW/3-column-preview-card-component-main.png" alt="demo-web" height="425">
+</div>
 #### Programing Languages & Tools
 
 - HTML5
