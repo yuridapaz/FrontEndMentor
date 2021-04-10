@@ -19,7 +19,6 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
 
 <div align="center">
     <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-desktop.png" alt="demo-web" height="400">
-    <p align="center"> ### Mobile </p>
     <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-mobile.gif" alt="demo-mobile" height="400">
 </div>
 
