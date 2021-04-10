@@ -1,11 +1,9 @@
-# Social proof section master
-Desktop version
+# [Social proof section master](https://github.com/yuridapaz/FrontEndMentor/tree/master/social-proof-section-master)
 
-![Desktop version](https://github.com/yuridapaz/FrontEndMentor/blob/e133620ae0d021776e8c4c24a11f262294f12dd0/FrontEndMentor-IMG-PREVIEW/social-proof-section-master.png)
-
-Mobile version
-
-![Mobile version](https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-mobile.png)
+<div align="center">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-desktop.png" alt="demo-web" height="400">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-mobile.gif" alt="demo-mobile" height="400">
+</div>
 
 ### Programing Languages & Tools
 
