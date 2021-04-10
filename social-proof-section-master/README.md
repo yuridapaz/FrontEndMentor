@@ -4,7 +4,7 @@
     <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-desktop.png" alt="demo-web" height="400">
 </div>    
     <h2 align="center"> Mobile </h2>
-<div align"center">
+<div align="center">
     <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-mobile.gif" alt="demo-mobile" height="400">
 </div>
 
