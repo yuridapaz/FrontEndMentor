@@ -18,8 +18,8 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
 ## [Social proof section master](https://github.com/yuridapaz/FrontEndMentor/tree/master/social-proof-section-master)
 
 <div align="center">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-desktop.png" alt="demo-web" height="380">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-mobile.gif" alt="demo-mobile" height="380">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-desktop.png" alt="demo-web" height="360">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-mobile.gif" alt="demo-mobile" height="360">
 </div>
 
 
