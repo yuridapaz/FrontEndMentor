@@ -9,11 +9,6 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
     <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/3-column-preview-card-component-main-mobile.gif" alt="demo-mobile" height="400">
 </div>
 
-#### Links
-
-- [Solution URL](https://github.com/yuridapaz/FrontEndMentor/tree/master/3-column-preview-card-component-main)
-- [Live Site URL]()
-
 #### Programing Languages & Tools
 
 - HTML5
@@ -27,10 +22,6 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
     <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-proof-section-master-mobile.gif" alt="demo-mobile" height="400">
 </div>
 
-#### Links
-
-- [Solution URL](https://github.com/yuridapaz/FrontEndMentor/tree/master/social-proof-section-master)
-- [Live Site URL]()
 
 #### Programing Languages & Tools
 
@@ -45,11 +36,6 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
     <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/four-card-feature-section-master.png" alt="demo-web" height="400">
     <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/four-card-feature-section-master.gif" alt="demo-mobile" height="400">
 </div>
-
-#### Links
-
-- [Solution URL](https://github.com/yuridapaz/FrontEndMentor/tree/master/social-proof-section-master)
-- [Live Site URL]()
 
 #### Programing Languages & Tools
 
