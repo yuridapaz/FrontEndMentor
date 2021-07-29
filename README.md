@@ -6,8 +6,8 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
 ## [Four card feature section master](https://github.com/yuridapaz/FrontEndMentor/tree/master/intro-component-with-signup-form-master)
 
 <div align="center">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/intro-component-with-signup-form-master-desktop.gif" alt="demo-web" height="400">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/intro-component-with-signup-form-master-mobile.gif" alt="demo-mobile" height="400">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/intro-component-with-signup-form-master-desktop.gif" alt="demo-web" height="380">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/intro-component-with-signup-form-master-mobile.gif" alt="demo-mobile" height="380">
 </div>
 
 #### Programing Languages & Tools
@@ -17,7 +17,18 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
 - Javascript
 - SASS
 
----
+## [Ping Coming soon page master](https://github.com/yuridapaz/FrontEndMentor/tree/master/ping-coming-soon-page-master)
+
+<div align="center">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/ping-coming-soon-page-master-web.gif" alt="demo-web" height="400">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/ping-coming-soon-page-master-mobile.gif" alt="demo-mobile" height="400">
+</div>
+
+#### Programing Languages & Tools
+
+- HTML5
+- CSS
+- Javascript
 
 
 ## [Four card feature section master](https://github.com/yuridapaz/FrontEndMentor/tree/master/four-card-feature-section-master)
