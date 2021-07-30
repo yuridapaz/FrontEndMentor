@@ -17,6 +17,19 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
 - Javascript
 - SASS
 
+## [article-preview-component-master](https://github.com/yuridapaz/FrontEndMentor/tree/master/article-preview-component-master)
+
+<div align="center">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/article-preview-component-web.gif" alt="demo-web" height="360">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/article-preview-component-mobile.gif" alt="demo-mobile" height="360">
+</div>
+
+#### Programing Languages & Tools
+
+- HTML5
+- CSS
+- Javascript
+
 ## [Ping Coming soon page master](https://github.com/yuridapaz/FrontEndMentor/tree/master/ping-coming-soon-page-master)
 
 <div align="center">
