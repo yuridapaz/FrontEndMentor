@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;600&display=swap');
+
+:root {
+  --primary-font: 'Manrope', sans-serif;
+  --very-dark-grayish-blue: hsl(217, 19%, 35%);
+  --desaturated-dark-blue: hsl(214, 17%, 51%);
+  --grayish-blue: hsl(212, 23%, 69%);
+  --light-grayish-blue: hsl(210, 46%, 95%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: var(--primary-font);
+  background-color: var(--light-grayish-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  max-width: 650px;
+  display: flex;
+  border-radius: 1rem;
+  background-color: #fff;
+}
+
+.left-container {
+  width: 45%;
+}
+
+.img-card {
+  width: 100%;
+  height: 100%;
+}
+
+.img-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 2%;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+.right-container {
+  width: 65%;
+  padding: 2.5rem;
+  position: relative;
+}
+
+.right-container h1 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+  color: var(--very-dark-grayish-blue);
+}
+
+.right-container p {
+  font-size: 0.9rem;
+  color: var(--grayish-blue);
+}
+
+.card-bottom {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  width: 45px;
+  height: 45px;
+  margin-right: 1.2rem;
+}
+
+.avatar img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.conteudo {
+  width: 100%;
+  position: relative;
+}
+
+.conteudo .name {
+  font-weight: 600;
+  color: var(--very-dark-grayish-blue);
+}
+
+.conteudo .share {
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+  font-size: 1.3rem;
+  text-align: center;
+  background-color: var(--light-grayish-blue);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: var(--desaturated-dark-blue);
+  cursor: pointer;
+  padding-top: 0.2rem;
+  z-index: 2;
+}
+
+.conteudo .share:hover {
+  background-color: var(--desaturated-dark-blue);
+  color: var(--light-grayish-blue);
+}
+
+.pop-up {
+  width: 200px;
+  border-radius: 1rem;
+  position: absolute;
+  bottom: 60px;
+  right: -42px;
+  background-color: var(--very-dark-grayish-blue);
+  padding: 1rem;
+  color: var(--light-grayish-blue);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  transition: 0.3s ease;
+  opacity: 0;
+}
+
+.pop-up span {
+  font-size: 1rem;
+  letter-spacing: 0.3rem;
+  color: var(--grayish-blue);
+}
+
+.pop-up a:link,
+.pop-up a:visited,
+.pop-up a:active {
+  color: var(--light-grayish-blue);
+  text-decoration: none;
+}
+
+.pop-up::after {
+  content: '';
+  display: block;
+  position: absolute;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  top: 100%;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-bottom: 12px solid transparent;
+  border-top: 12px solid var(--very-dark-grayish-blue);
+}
+
+.pop-up.ativo {
+  opacity: 1;
+  bottom: 90px;
+}
+
+.pop-up a:hover {
+  color: var(--grayish-blue);
+}
+
+@media screen and (max-width: 475px) {
+  body {
+    width: 100vw;
+  }
+
+  .container {
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .left-container {
+    width: 100%;
+  }
+
+  .img-card img {
+    width: 100%;
+    height: 210px;
+    object-fit: cover;
+    object-position: 2%;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 0;
+  }
+
+  .right-container {
+    width: 100%;
+    padding-bottom: 1.5rem;
+  }
+
+  .right-container h1 {
+    line-height: 2.2rem;
+  }
+
+  .right-container p {
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+  }
+
+  .card-bottom {
+    margin-top: 3rem;
+  }
+
+  .conteudo .share {
+    bottom: 7px;
+  }
+
+  .pop-up {
+    width: 100%;
+    height: 6.5rem;
+    position: absolute;
+    top: 100%;
+    transform: translateY(-100%);
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding: 1.8rem 8rem 1.8rem 1.8rem;
+    z-index: 1;
+    opacity: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    transition: 0.3s ease;
+  }
+
+  .pop-up.ativo {
+    opacity: 1;
+  }
+
+  .pop-up::after {
+    opacity: 0;
+  }
+}
