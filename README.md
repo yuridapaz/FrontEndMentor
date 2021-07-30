@@ -40,8 +40,22 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
 #### Programing Languages & Tools
 
 - HTML5
-- CSS
+- CSS (Flexbox layout)
 - Javascript
+
+
+## [Testimonials grid section main](https://github.com/yuridapaz/FrontEndMentor/tree/master/testimonials-grid-section-main)
+
+<div align="center">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/testimonials-grid-section-main-web.png" alt="demo-web" height="360">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/testimonials-grid-section-main-mobile.gif" alt="demo-mobile" height="360">
+</div>
+
+#### Programing Languages & Tools
+
+- HTML5
+- CSS (Grid Layout)
+
 
 
 ## [Four card feature section master](https://github.com/yuridapaz/FrontEndMentor/tree/master/four-card-feature-section-master)
@@ -54,7 +68,7 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
 #### Programing Languages & Tools
 
 - HTML5
-- CSS
+- CSS (Flexbox layout)
 
 
 ## [3 column preview card component main](https://github.com/yuridapaz/FrontEndMentor/tree/master/3-column-preview-card-component-main)
