@@ -20,8 +20,8 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
 ## [article-preview-component-master](https://github.com/yuridapaz/FrontEndMentor/tree/master/article-preview-component-master)
 
 <div align="center">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/article-preview-component-web.gif" alt="demo-web" height="350">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/article-preview-component-mobile.gif" alt="demo-mobile" height="350">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/article-preview-component-web.gif" alt="demo-web" height="340">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/article-preview-component-mobile.gif" alt="demo-mobile" height="340">
 </div>
 
 #### Programing Languages & Tools
