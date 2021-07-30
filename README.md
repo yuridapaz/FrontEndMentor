@@ -6,8 +6,8 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
 ## [Four card feature section master](https://github.com/yuridapaz/FrontEndMentor/tree/master/intro-component-with-signup-form-master)
 
 <div align="center">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/intro-component-with-signup-form-master-desktop.gif" alt="demo-web" height="360">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/intro-component-with-signup-form-master-mobile.gif" alt="demo-mobile" height="360">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/intro-component-with-signup-form-master-desktop.gif" alt="demo-web" height="340">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/intro-component-with-signup-form-master-mobile.gif" alt="demo-mobile" height="340">
 </div>
 
 #### Programing Languages & Tools
