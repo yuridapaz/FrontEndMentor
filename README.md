@@ -1,6 +1,6 @@
 # FrontEndMentor
 
-##This is my FrontEndMentor folder that i will be using to upload my projects.
+### This is my FrontEndMentor folder that i will be using to upload my projects.
 
 ## [Social media dashboard with theme switcher](https://github.com/yuridapaz/FrontEndMentor/tree/master/social-media-dashboard-with-theme-switcher-master)
 
