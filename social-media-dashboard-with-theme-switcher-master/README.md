@@ -1,5 +1,5 @@
-#Preview
 
+<p style="text-align: center;"> Preview </p>
 
 <div align="center">
     <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-media-dashboard-with-theme-switcher-master-web.gif" alt="demo-web">
