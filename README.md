@@ -5,8 +5,8 @@
 ## [Social media dashboard with theme switcher](https://github.com/yuridapaz/FrontEndMentor/tree/master/social-media-dashboard-with-theme-switcher-master)
 
 <div align="center">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-media-dashboard-with-theme-switcher-master-web.gif" alt="demo-web" height="350">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-media-dashboard-with-theme-switcher-master-mobile.gif" alt="demo-mobile" height="350">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-media-dashboard-with-theme-switcher-master-web.gif" alt="demo-web" height="370">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-media-dashboard-with-theme-switcher-master-mobile.gif" alt="demo-mobile" height="370">
 </div>
 
 #### Programing Languages & Tools
