@@ -1,7 +1,19 @@
 # FrontEndMentor
 
-This is my FrontEndMentor folder that i will be using to upload my projects.
+##This is my FrontEndMentor folder that i will be using to upload my projects.
 
+## [Social media dashboard with theme switcher](https://github.com/yuridapaz/FrontEndMentor/tree/master/social-media-dashboard-with-theme-switcher-master)
+
+<div align="center">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-media-dashboard-with-theme-switcher-master-web.gif" alt="demo-web" height="350">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/social-media-dashboard-with-theme-switcher-master-mobile.gif" alt="demo-mobile" height="350">
+</div>
+
+#### Programing Languages & Tools
+
+- HTML5
+- CSS (Flexbox & Grid)
+- Javascript
 
 ## [Four card feature section](https://github.com/yuridapaz/FrontEndMentor/tree/master/intro-component-with-signup-form-master)
 
@@ -17,7 +29,7 @@ This is my FrontEndMentor folder that i will be using to upload my projects.
 - Javascript
 - SASS
 
-## [article-preview-component](https://github.com/yuridapaz/FrontEndMentor/tree/master/article-preview-component-master)
+## [Article preview component](https://github.com/yuridapaz/FrontEndMentor/tree/master/article-preview-component-master)
 
 <div align="center">
     <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/article-preview-component-web.gif" alt="demo-web" height="330">
