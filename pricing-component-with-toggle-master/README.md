@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <img src=https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/pricing-component-with-toggle-web.gif" alt="demo-web">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/pricing-component-with-toggle-web.gif" alt="demo-web">
 </div>
 
 <div align="center" markdown="1"> 
