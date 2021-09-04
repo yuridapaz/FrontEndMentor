@@ -15,6 +15,20 @@
 - CSS (Flexbox & Grid)
 - Javascript
 
+## [Pricing component with toggle](https://github.com/yuridapaz/FrontEndMentor/tree/master/pricing-component-with-toggle-master)
+
+<div align="center">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/pricing-component-with-toggle-web.gif" alt="demo-web" height="370">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/pricing-component-with-toggle-mobile.gif" alt="demo-mobile" height="370">
+</div>
+
+#### Programing Languages & Tools
+
+- HTML5
+- CSS (Flexbox)
+- Javascript
+
+
 ## [Four card feature section](https://github.com/yuridapaz/FrontEndMentor/tree/master/intro-component-with-signup-form-master)
 
 <div align="center">
