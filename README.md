@@ -18,8 +18,8 @@
 ## [Pricing component with toggle](https://github.com/yuridapaz/FrontEndMentor/tree/master/pricing-component-with-toggle-master)
 
 <div align="center">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/pricing-component-with-toggle-web.gif" alt="demo-web" height="370">
-    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/pricing-component-with-toggle-mobile.gif" alt="demo-mobile" height="370">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/pricing-component-with-toggle-web.gif" alt="demo-web" height="390">
+    <img src="https://github.com/yuridapaz/FrontEndMentor/blob/master/FrontEndMentor-IMG-PREVIEW/pricing-component-with-toggle-mobile.gif" alt="demo-mobile" height="390">
 </div>
 
 #### Programing Languages & Tools
