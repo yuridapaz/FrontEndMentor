@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png" />
+    <title>Pricing Component with toggle</title>
+  </head>
+  <body>
+    <div class="bg-top">
+      <img src="/images/bg-top.svg" alt="" />
+    </div>
+    <div class="bg-bottom">
+      <img src="/images/bg-bottom.svg" alt="" />
+    </div>
+    <div class="full-container">
+      <div class="heading">
+        <h1 class="title">Our Pricing</h1>
+        <div class="plans">
+          <h2 class="annually">Annually</h2>
+
+          <label>
+            <input type="checkbox" id="checkboxprice" />
+            <span class="check"></span>
+          </label>
+
+          <h2 class="monthly">Monthly</h2>
+        </div>
+      </div>
+
+      <div class="cards-section" id="cardsSection">
+        <div class="card first-card" id="card">
+          <h2 class="card-title">Basic</h2>
+          <h3 class="card-price monthly-price">&dollar;19.99</h3>
+          <h3 class="card-price annually-price">&dollar;199.99</h3>
+          <p>500 GB Storage</p>
+          <p>2 Users Allowed</p>
+          <p>Send up to 3 GB</p>
+          <button class="btn first-card">Learn More</button>
+        </div>
+
+        <div class="card second-card" id="card">
+          <h2 class="card-title">Professional</h2>
+          <h3 class="card-price monthly-price">&dollar;24.99</h3>
+          <h3 class="card-price annually-price">&dollar;249.99</h3>
+          <!-- &dollar;249.99 -->
+          <p>1 TB Storage</p>
+          <p>5 Users Allowed</p>
+          <p>Send up to 10 GB</p>
+          <button class="btn second-card">Learn More</button>
+        </div>
+
+        <div class="card third-card" id="card">
+          <h2 class="card-title">Master</h2>
+          <h3 class="card-price monthly-price">&dollar;39.99</h3>
+          <h3 class="card-price annually-price">&dollar;399.99</h3>
+          <!-- &dollar;399.99 -->
+          <p>2 TB Storage</p>
+          <p>10 Users Allowed</p>
+          <p>Send up to 20 GB</p>
+          <button class="btn third-card">Learn More</button>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="/app.js"></script>
+</html>
